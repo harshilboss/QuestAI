@@ -6,7 +6,7 @@
 #     # Ask Codex to reply with a specific output
 #     result = client.responses_create(prompt=prompte)
 #     print(result.text) 
-
+# git add . && git commit -m "update" && git push
 import sys
 from codex_python_sdk import create_client
 # make sure to import right
